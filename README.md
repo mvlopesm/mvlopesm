@@ -1,9 +1,16 @@
-## Olá, seja bem vindo! Me chamo Marcos Medeiros, programador Web Front-end!
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is,+Marcos+Medeiros;I'm+Front-end+Developer;I'm+from+Recife,+PE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <div align="center">
-  <a href="https://github.com/mvlopesm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvlopesm&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvlopesm&layout-compact&lang-count=16&theme=merko"/>
+<a href="https://wa.me//5587999184840" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:mvlm28797@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcos-medeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mvlopesm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marcos Medeiros github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvlopesm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
  
 <div style="display: inline_block" align="center"><br>
@@ -23,17 +30,14 @@
 </div>
   
   ##
- 
 <div align="center">
-  <br>
-  <a href="https://wa.me//5587999184840" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mvlm28797@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-medeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ##
-  
-  <br>
 
-  ![snake gif](https://github.com/mvlopesm/mvlopesm/blob/output/github-contribution-grid-snake.svg)
-  
+![snake gif](https://github.com/mvlopesm/mvlopesm/blob/output/github-contribution-grid-snake.svg)
+
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mvlopesm}/count.svg" /></p> 
+<br>
 </div>
+  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
